@@ -1,5 +1,10 @@
 # 🔥 Code Extensions Fireside Chat 🔥
 
+Below you will find a list of hand selected vsCode extensions
+that I use in my daily life as a programmer.
+
+I hope you find a few of these as handy as I do.
+
 ## Markdown 🅫
 
 [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
