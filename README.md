@@ -1,5 +1,8 @@
 # 🔥 Code Extensions Fireside Chat 🔥
 
+As of this writing there are approximately 19,000 Visual Studio Code extensions on
+the [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode).
+
 Below you will find a list of hand selected vsCode extensions
 that I use in my daily life as a programmer.
 
